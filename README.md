@@ -1,5 +1,5 @@
 
-# Installation for Zabbix4 
+# Installation for Zabbix3LTS
 
 clone repository
 ```
